@@ -11,7 +11,6 @@ takel_docker_deb_install_packages:
   - containerd.io
   - docker-ce
   - docker-ce-cli
-  - docker-compose
   - docker-compose-plugin
 
 
